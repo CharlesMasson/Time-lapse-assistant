@@ -1,4 +1,4 @@
-# Time-lapse-assistant
+## Time-lapse-assistant
 
 Software for time-lapse post-processing (previewing, deflickering and mass-editing)
 
